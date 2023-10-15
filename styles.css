@@ -9,7 +9,7 @@
 	color:white;
 	
 }
-.root>p:first-child{
+.root>p:last-child{
 	color:red;
 }
 .root div>ul>li{
