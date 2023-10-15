@@ -9,6 +9,9 @@
 	color:white;
 	
 }
+.root>p:nth-child(2){
+	color:black;
+}
 .root>p:last-child{
 	color:red;
 }
